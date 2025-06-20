@@ -1,13 +1,13 @@
 {
-  "name": "uptime-status",
+  "name": "website-monitoring",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "author": "Chumeng",
+  "url": "https://chumeng.plus",
+  "email": "3314422639@qq.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://chumeng.plus"
   },
   "type": "module",
   "scripts": {
